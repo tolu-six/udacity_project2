@@ -1,0 +1,26 @@
+[
+    {
+      "ParameterKey": "Project2Name",
+      "ParameterValue": "Udagram-Udacity"
+    },
+    {
+      "ParameterKey": "VpcCIDR",
+      "ParameterValue": "10.0.0.0/16"
+    },
+    {
+      "ParameterKey": "PubSUB1CIDR",
+      "ParameterValue": "10.0.1.0/24"
+    },
+    {
+      "ParameterKey": "PubSUB2CIDR",
+      "ParameterValue": "10.0.2.0/24"
+    },
+    {
+      "ParameterKey": "PrvSUB1CIDR",
+      "ParameterValue": "10.0.3.0/24"
+    },
+    {
+      "ParameterKey": "PrvSUB2CIDR",
+      "ParameterValue": "10.0.4.0/24"
+    }
+  ]
